@@ -1,5 +1,5 @@
 === WP CSV Exporter ===
-Contributors: Nakashima Masahiro
+Contributors: kanakogi
 Donate link: http://www.amazon.co.jp/registry/wishlist/2TUGZOYJW8T4T/?_encoding=UTF8&camp=247&creative=7399&linkCode=ur2&tag=wpccc-22
 Tags: : csv, custom post, export, extract, import, csv import, csv importer, csv to custom post type, import, import CSV, wordpress csv import
 Requires at least: 3.0 or higher
